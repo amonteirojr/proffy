@@ -1,2 +1,2 @@
 # Proffy
-Projeto criado para estudo e portifólio na NLW #2, da Rocketseat.
+Projeto desenvolvido na NLW #2 da Rocketseat.
