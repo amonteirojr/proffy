@@ -14,10 +14,11 @@ Proffy
   </a>
 </p>
 
-<!-- <div>
-  <img src="https://i.ibb.co/GJfb2X4/web.gif" alt="demo-web" height="425">
-  <img src="https://i.ibb.co/zHbFDyd/mobile.gif" alt="demo-mobile" height="425">
-</div> -->
+<div>
+<!-- <a href="https://ibb.co/zx1WMCj"><img src="https://i.ibb.co/02kp718/Gif-proffy.gif" alt="Gif-proffy" border="0"></a> -->
+  <img src="https://i.ibb.co/H7Dg4yr/bandicam-2020-08-07-22-34-23-510.gif" alt="demo-web" height="425">
+  <!-- <img src="https://i.ibb.co/zHbFDyd/mobile.gif" alt="demo-mobile" height="425"> -->
+</div>
 
 <hr />
 
