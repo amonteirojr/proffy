@@ -1,5 +1,7 @@
 {
-  "dependencies": {
-    "axios": "^0.19.2"
+  "name": "Proffy",
+  "version": "1.0.0",
+  "devDependencies": {
+    "lerna": "^3.22.1"
   }
 }
