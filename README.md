@@ -28,8 +28,9 @@ This app features all the latest tools and practices in mobile development!
 
 - ⚛️ **React Js** — A JavaScript library for building user interfaces
 - ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
-- ⚛️ **TypeScript** — A strongly typed superset of JavaScript that compiles to plain JavaScript. 
+- *️⃣ **TypeScript** — A strongly typed superset of JavaScript that compiles to plain JavaScript. 
 - 💹 **Node Js** — A web framework for Node Js
+- ⬛️ **Expo** - A framework and a platform for universal React applications.
 
 ## Getting started
 
