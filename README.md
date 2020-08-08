@@ -45,7 +45,7 @@ This app features all the latest tools and practices in mobile development!
 
 ### Getting started with the web app
 
-1. Move yourself to the frontend folder: `cd frontend`
+1. Move yourself to the web folder: `cd web`
 2. Run `yarn start` to start the web application
 
 ### Getting started with the mobile app
